@@ -1,6 +1,0 @@
-E:\easyPractice\easyProjectPractice\modBusDLL\bin\Debug\modBusDLL.dll
-E:\easyPractice\easyProjectPractice\modBusDLL\bin\Debug\modBusDLL.pdb
-E:\easyPractice\easyProjectPractice\modBusDLL\obj\Debug\modBusDLL.csproj.AssemblyReference.cache
-E:\easyPractice\easyProjectPractice\modBusDLL\obj\Debug\modBusDLL.csproj.CoreCompileInputs.cache
-E:\easyPractice\easyProjectPractice\modBusDLL\obj\Debug\modBusDLL.dll
-E:\easyPractice\easyProjectPractice\modBusDLL\obj\Debug\modBusDLL.pdb
