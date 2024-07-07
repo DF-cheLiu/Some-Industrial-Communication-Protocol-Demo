@@ -1,0 +1,13 @@
+E:\easyPractice\easyProjectPractice\easyProjectPractice\bin\Debug\easyProjectPractice.exe.config
+E:\easyPractice\easyProjectPractice\easyProjectPractice\bin\Debug\easyProjectPractice.exe
+E:\easyPractice\easyProjectPractice\easyProjectPractice\bin\Debug\easyProjectPractice.pdb
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.csproj.AssemblyReference.cache
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.Form1.resources
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.Properties.Resources.resources
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.csproj.GenerateResource.cache
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.csproj.CoreCompileInputs.cache
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.exe
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.pdb
+E:\easyPractice\easyProjectPractice\easyProjectPractice\bin\Debug\modBusDLL.dll
+E:\easyPractice\easyProjectPractice\easyProjectPractice\bin\Debug\modBusDLL.pdb
+E:\easyPractice\easyProjectPractice\easyProjectPractice\obj\Debug\easyProjectPractice.csproj.CopyComplete
